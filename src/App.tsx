@@ -8,7 +8,7 @@ const messengerLink = (text: string) =>
 
 const services = [
   {
-    name: 'Tarpaulin Printing',
+    name: 'Tarpaulin Printings',
     description: 'Fast and durable tarpaulin prints for events, business promos, announcements, and signage.',
     icon: '/icon/tarp.png'
   },
