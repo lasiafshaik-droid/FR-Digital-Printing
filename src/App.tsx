@@ -85,15 +85,13 @@ const sampleCategories = [
   {
     category: 'Invitations',
     items: [
-      { src: '/images/invitation.jpg', label: 'Wedding Invitation' },
-      { src: '/images/invitation-sample.jpg', label: 'Wedding Invitation' }
+      { src: '/images/invitation.jpg', label: 'Wedding Invitation' }
     ]
   },
   {
     category: 'Stickers',
     items: [
-      { src: '/images/sticker.jpg', label: 'Custom Stickers' },
-      { src: '/images/sticker-sample.jpg', label: 'Custom Stickers' }
+      { src: '/images/sticker.jpg', label: 'Custom Stickers' }
     ]
   },
   {
